@@ -1,0 +1,10 @@
+ultralytics==8.0.196
+streamlit==1.37.0
+opencv-python
+torch
+torchvision
+numpy
+pandas
+Pillow
+matplotlib
+requests
