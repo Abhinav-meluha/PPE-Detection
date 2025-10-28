@@ -1,11 +1,12 @@
 # PPE-Detection
-An overview of the project
+An overview of the project:
+
  This project's main goal is to use machine learning and deep learning techniques to create a computer vision-based PPE (personal protective equipment) detection system.
  It automatically determines whether construction site workers are donning the necessary safety gear, including masks, safety vests, and hard hats.
 
  The YOLOv8 real-time object detection technology is used in the system's construction, and a Streamlit dashboard is used for an interactive, user-friendly interface that displays compliance levels.
 
- aims
+ aims:
 
  Create an AI model that can recognize personal protective equipment (PPE) like safety vests, masks, and hardhats.
 
@@ -23,7 +24,7 @@ An overview of the project
  Because of its high detection accuracy, quick inference speed, and simplicity of integration with Python, YOLOv8 was selected.
  Six classes were taught to the model: Hardhat, Mask, Safety Vest, No-Hardhat, No-Mask, and No-Safety Vest.
 
- Process Workflow
+ Process Workflow:
 
  Construction workers' PPE photos were gathered and labeled as part of the dataset preparation process.  Divide the data into 30 percent testing and 70 percent training.
 
@@ -37,7 +38,7 @@ An overview of the project
  It can be scaled for industrial use and assists in automating safety compliance monitoring on building sites.
  Clear visual detections and well-organized compliance reporting demonstrated the model's high accuracy.
 
- How to Operate Nearby
+ How to Operate Nearby:
 
  Make a clone.
 
@@ -45,7 +46,7 @@ An overview of the project
 
  The command streamlit run app.py can be used to launch the application.
 
- Potential Enhancements
+ Potential Enhancements:
  • Include additional PPE categories such as boots, goggles, and gloves.
  • Enhanced detection in congested and low-light conditions.
  • Connect to CCTV cameras to enable real-time surveillance.
