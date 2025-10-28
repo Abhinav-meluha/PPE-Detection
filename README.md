@@ -19,7 +19,8 @@ An overview of the project:
  Red: No PPE found (Non-Compliant)
 
  Install the model on Streamlit Cloud for inference and monitoring in real time.
- Specifications of the Model
+
+ Specifications of the Model:
  YOLOv8 is the model used.
  Because of its high detection accuracy, quick inference speed, and simplicity of integration with Python, YOLOv8 was selected.
  Six classes were taught to the model: Hardhat, Mask, Safety Vest, No-Hardhat, No-Mask, and No-Safety Vest.
