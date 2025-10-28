@@ -52,7 +52,9 @@ An overview of the project:
  • Enhanced detection in congested and low-light conditions.
  • Connect to CCTV cameras to enable real-time surveillance.
  • To improve generalization, fine-tune YOLOv8 using a larger dataset.
- conclusion
+ 
+ conclusion:
+ 
  This project shows how computer vision and artificial intelligence can be used to address practical safety issues.
  This system offers an automated, precise, and user-friendly method of guaranteeing safety compliance on building sites by training and implementing a YOLOv8 model for PPE detection.
  From data preparation to real-time deployment and monitoring, it embodies an entire AI workflow.
